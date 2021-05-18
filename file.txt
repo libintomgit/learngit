@@ -1,0 +1,4 @@
+Keeping your remote repository up to date
+After a while, your fork of the remote repository will no longer be up to date, and you will need to make pull requests in the other direction to merge the remote changes into your fork.
+
+Always ensure that your GitHub repository is up to date with any changes you've made locally before you do this.
