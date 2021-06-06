@@ -1,3 +1,7 @@
 *.ts
 *.tom
+<<<<<<< HEAD
 *.hi
+=======
+*.lol
+>>>>>>> ce1e6ddb365006df484dfb73d121b0fc97730a9d
